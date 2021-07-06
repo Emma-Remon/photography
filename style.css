@@ -1,0 +1,9 @@
+head 
+{
+font-size: 45px; 
+}
+body
+{
+    font-size:25px;
+   background: linear-gradient(pink 0%, lightblue 100%);
+}
